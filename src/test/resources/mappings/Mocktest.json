@@ -1,0 +1,15 @@
+{
+	"priority":1,
+	"request":{
+		"method":"GET",
+		"url":"/test/mock"
+	},
+	"response":{
+		"status":200,
+		"bodyFileName":"filebody.json",
+		"headers":{
+			"Content-Type":"text/json",
+			"mytest":"test"
+		}
+	}
+}

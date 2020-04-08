@@ -1,0 +1,28 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"type": "object",
+	"required": ["id","name","owner"],
+	"properties": {
+		"id": {
+			"type": "number",
+			"minimum": 100000000
+		},
+		"name": {
+			"type": "string",
+			"minLength":5,
+			"maxLength":20
+		},
+		"owner":{
+			"type": "object",
+			"properties": {
+				"login": {
+					"type": "string",
+					"pattern": ".*qiucao.*"
+				}
+			}
+		},
+		"private": {
+			"type": "string"
+		}
+	}
+}

@@ -1,0 +1,37 @@
+{
+  "id" : "fd548eb8-ecf3-4a78-bb76-f385a3df3fe0",
+  "name" : "users_rest-assured",
+  "request" : {
+    "url" : "/users/rest-assured",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"login\":\"rest-assured\",\"id\":19369327,\"node_id\":\"MDEyOk9yZ2FuaXphdGlvbjE5MzY5MzI3\",\"avatar_url\":\"https://avatars2.githubusercontent.com/u/19369327?v=4\",\"gravatar_id\":\"\",\"url\":\"https://api.github.com/users/rest-assured\",\"html_url\":\"https://github.com/rest-assured\",\"followers_url\":\"https://api.github.com/users/rest-assured/followers\",\"following_url\":\"https://api.github.com/users/rest-assured/following{/other_user}\",\"gists_url\":\"https://api.github.com/users/rest-assured/gists{/gist_id}\",\"starred_url\":\"https://api.github.com/users/rest-assured/starred{/owner}{/repo}\",\"subscriptions_url\":\"https://api.github.com/users/rest-assured/subscriptions\",\"organizations_url\":\"https://api.github.com/users/rest-assured/orgs\",\"repos_url\":\"https://api.github.com/users/rest-assured/repos\",\"events_url\":\"https://api.github.com/users/rest-assured/events{/privacy}\",\"received_events_url\":\"https://api.github.com/users/rest-assured/received_events\",\"type\":\"Organization\",\"site_admin\":false,\"name\":\"REST Assured\",\"company\":null,\"blog\":\"http://rest-assured.io\",\"location\":null,\"email\":null,\"hireable\":null,\"bio\":\"Java DSL for easy testing of REST services\",\"public_repos\":2,\"public_gists\":0,\"followers\":0,\"following\":0,\"created_at\":\"2016-05-15T05:26:18Z\",\"updated_at\":\"2016-05-20T08:43:46Z\"}",
+    "headers" : {
+      "date" : "Wed, 08 Apr 2020 05:25:37 GMT",
+      "content-type" : "application/json; charset=utf-8",
+      "server" : "GitHub.com",
+      "status" : "200 OK",
+      "cache-control" : "public, max-age=60, s-maxage=60",
+      "vary" : "Accept, Accept-Encoding, Accept, X-Requested-With",
+      "etag" : "W/\"75c4797eebd1fec48b8c3a8bad8d8f3d\"",
+      "last-modified" : "Fri, 20 May 2016 08:43:46 GMT",
+      "x-github-media-type" : "github.v3; format=json",
+      "strict-transport-security" : "max-age=31536000; includeSubdomains; preload",
+      "x-frame-options" : "deny",
+      "x-content-type-options" : "nosniff",
+      "x-xss-protection" : "1; mode=block",
+      "referrer-policy" : "origin-when-cross-origin, strict-origin-when-cross-origin",
+      "content-security-policy" : "default-src 'none'",
+      "X-Ratelimit-Limit" : "60",
+      "X-Ratelimit-Remaining" : "59",
+      "X-Ratelimit-Reset" : "1586327137",
+      "Accept-Ranges" : "bytes",
+      "X-GitHub-Request-Id" : "59F4:5719:179441:1E4652:5E8D604D"
+    }
+  },
+  "uuid" : "fd548eb8-ecf3-4a78-bb76-f385a3df3fe0",
+  "persistent" : true,
+  "insertionIndex" : 3
+}
